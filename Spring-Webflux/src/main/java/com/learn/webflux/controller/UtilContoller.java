@@ -4,8 +4,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.weblux.app.dto.ResponseDto;
-import com.weblux.app.exception.UtilException;
+import com.learn.webflux.dto.ResponseDto;
+import com.learn.webflux.exceptionHandler.UtilException;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;

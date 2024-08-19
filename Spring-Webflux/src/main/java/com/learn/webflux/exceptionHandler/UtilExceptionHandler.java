@@ -4,8 +4,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-import com.weblux.app.dto.UtilExceptionDto;
-import com.weblux.app.exception.UtilException;
+import com.learn.webflux.dto.UtilExceptionDto;
 
 @ControllerAdvice
 public class UtilExceptionHandler {
