@@ -3,7 +3,7 @@ package com.learn.webflux.week_9.mapper;
 import org.springframework.stereotype.Component;
 
 import com.learn.webflux.week_9.dto.CustomerDTO;
-import com.learn.webflux.week_9.entity.Customer;
+import com.learn.webflux.week_9.model.Customer;
 
 @Component
 public class CustomerMapper {

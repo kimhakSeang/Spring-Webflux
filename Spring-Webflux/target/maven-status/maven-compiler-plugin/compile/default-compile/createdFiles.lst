@@ -2,7 +2,7 @@ com\learn\webflux\dto\ProductDto.class
 com\learn\webflux\week_9\dto\CustomerDTO.class
 com\learn\webflux\controller\WebFluxController.class
 com\learn\webflux\homework\session_22\ValidateRole.class
-com\learn\webflux\week_9\entity\Customer.class
+com\learn\webflux\week_9\model\Customer.class
 com\learn\webflux\week_9\controller\CustomerController.class
 com\learn\webflux\week_9\repository\CustomerRepository.class
 com\learn\webflux\week_9\config\DatabaseConfig.class

@@ -1,5 +1,0 @@
-# Created at 2024-08-19T23:13:09.447
-Boot Manifest-JAR contains absolute paths in classpath 'D:\PJS\Webflux\Workspace\Spring-Webflux\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-

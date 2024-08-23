@@ -14,7 +14,7 @@ D:\PJS\Webflux\Workspace\Spring-Webflux\src\main\java\com\learn\webflux\SpringWe
 D:\PJS\Webflux\Workspace\Spring-Webflux\src\main\java\com\learn\webflux\week_9\config\DatabaseConfig.java
 D:\PJS\Webflux\Workspace\Spring-Webflux\src\main\java\com\learn\webflux\week_9\controller\CustomerController.java
 D:\PJS\Webflux\Workspace\Spring-Webflux\src\main\java\com\learn\webflux\week_9\dto\CustomerDTO.java
-D:\PJS\Webflux\Workspace\Spring-Webflux\src\main\java\com\learn\webflux\week_9\entity\Customer.java
 D:\PJS\Webflux\Workspace\Spring-Webflux\src\main\java\com\learn\webflux\week_9\mapper\CustomerMapper.java
+D:\PJS\Webflux\Workspace\Spring-Webflux\src\main\java\com\learn\webflux\week_9\model\Customer.java
 D:\PJS\Webflux\Workspace\Spring-Webflux\src\main\java\com\learn\webflux\week_9\repository\CustomerRepository.java
 D:\PJS\Webflux\Workspace\Spring-Webflux\src\main\java\com\learn\webflux\week_9\service\CustomerService.java

@@ -13,6 +13,7 @@ import com.learn.webflux.week_9.service.CustomerService;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
+
 @RestController
 @RequestMapping("customers")
 public class CustomerController {
@@ -23,10 +24,18 @@ public class CustomerController {
 	public Flux<CustomerDTO> getAll(){
 		return customerService.getAll();
 	}
+	
 	@GetMapping("get/{id}")
 	public Mono<CustomerDTO> getById( @PathVariable("id") Integer id){
 		return customerService.getById(id);
 	}
+	
+	@GetMapping("/page/{page}")
+	public Flux<CustomerDTO> getCustomerByPage(@PathVariable("page") Integer page){
+	    return customerService.getCustomerByPage(page);
+	}
+		
+	
 	
 	
 }
